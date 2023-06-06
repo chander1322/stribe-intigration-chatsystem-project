@@ -40,7 +40,7 @@
 						<h6 class="title">Product Filters</h6>
 						</a>
 					</header>
-					<div class="filter-content collapse show" id="collapse_1" style="">
+					<div class="filter-content collapse show" id="collapse_1">
 						<div class="card-body">
 							<form class="pb-3">
 								<div class="input-group">
@@ -65,7 +65,7 @@
 							<i class="icon-control fa fa-chevron-down"></i>
 							<h6 class="title">Price filter </h6>
 					</header>
-					<div class="filter-content " id="collapse_5" style="">
+					<div class="filter-content " id="collapse_5" s>
 						<div class="card-body">
 							<label>min price</label>
 						  		<input type="number" class="min-value">
@@ -81,7 +81,7 @@
 							<i class="icon-control fa fa-chevron-down"></i>
 							<h6 class="title">Feedback</h6>
 					</header>
-					<div class="filter-content " id="collapse_5" style="">
+					<div class="filter-content " id="collapse_5">
 						<div class="card-body">
 							<label>Star Rating</label>
 						  		<i class="fa fa-star" aria-hidden="true"></i>
@@ -101,7 +101,7 @@
 							<h6 class="title">More filter </h6>
 						</a>
 					</header>
-					<div class="filter-content collapse in" id="collapse_5" style="">
+					<div class="filter-content collapse in" id="collapse_5" >
 						<div class="card-body">
 							<label class="custom-control custom-radio">
 						  		<input type="radio" name="myfilter_radio" checked="" class="custom-control-input">
